@@ -1,0 +1,5 @@
+You are given a data log file of say aircel having subscribers ID,tower id and and Data Downloaded. 
+	> Calculate Total Data Downloaded for each customer id using 
+	> Sort the result according to Data Downloaded. 
+
+ hadoop jar subscriber.jar com.edu.subscriber.SubscriberDriver HandsOn/MR/Subscriber/Input HandsOn/MR/Subscriber/Output
